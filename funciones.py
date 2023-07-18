@@ -1,11 +1,19 @@
 import os
 os.system("clear")
 
-def function_1():
-    pass
-def function_2():
-    pass
-def function_3():
-    pass
-def function_4():
-    pass
+def suma(a,b):
+    c = a + b
+    print (c)
+def resta(a,b):
+    c = a - b
+    print (c)
+def multiplicacion(a,b):
+    c = a * b
+    print (c)
+def division(a,b):
+    c = a / b
+    print (c)
+
+# calculadora
+
+
